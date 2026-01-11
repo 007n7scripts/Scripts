@@ -1,0 +1,233 @@
+{
+  "Select Tool": ["Pilih Alat", "Pilih alat yang ingin Anda gunakan"],
+  "UI Scale": ["Skala UI", "Sesuaikan ukuran antarmuka pengguna"],
+  
+  "Auto Farm Level": ["Auto Farm Level", "Farm level secara otomatis"],
+  "Auto Farm Nearest": ["Auto Farm Terdekat", "Bunuh musuh terdekat secara otomatis"],
+  "Sky Piea Farm": ["Farm Sky Piea", "Farm musuh di Sky Piea secara otomatis"],
+  "Player Hunter Quest": ["Misi Pemburu Pemain", "Terima dan selesaikan misi berburu pemain"],
+  
+  "Auto Factory": ["Pabrik Otomatis", "Farm pabrik secara otomatis, muncul setiap 1:30 (jam, menit)"],
+  "Auto Farm Ectoplasm": ["Farm Ektoplasma", "Farm ektoplasma secara otomatis"],
+  
+  "Auto Pirates Sea": ["Farm Bajak Laut Laut", "Selesaikan event bajak laut di Sea Castle secara otomatis"],
+  "Auto Farm Bones": ["Farm Tulang", "Farm tulang secara otomatis"],
+  "Auto Kill Soul Reaper": ["Auto Soul Reaper", "Spawn dan Bunuh Soul Reaper"],
+  "Auto Trade Bones": ["Tukar Tulang", "Tukar tulang dengan hadiah secara otomatis"],
+  
+  "Auto Farm Candy": ["Farm Permen", "Farm permen otomatis selama event Natal"],
+  "Auto Christmas Gift": ["Hadiah Natal Otomatis", "Kumpulkan hadiah Natal otomatis setiap 1 jam"],
+  "Auto Store Holiday Gift": ["Simpan Hadiah", "Simpan hadiah yang dikumpulkan dari Event"],
+  
+  "Auto Chest [ Tween ]": ["Auto Peti [ Tween ]", "Kumpulkan peti secara otomatis menggunakan Tween"],
+  
+  "Update Boss List": ["Perbarui Daftar Boss", "Perbarui daftar bos yang tersedia"],
+  "Boss List": ["Daftar Boss", "Pilih bos untuk diserang"],
+  "Auto Kill Boss Selected": ["Bunuh Boss Terpilih", "Serang bos yang dipilih secara otomatis"],
+  "Auto Farm All Bosses": ["Farm Semua Boss", "Serang semua bos yang tersedia secara otomatis"],
+  "Take Boss Quest": ["Ambil Misi Boss", "Ambil misi bos secara otomatis"],
+  
+  "Material List": ["Daftar Material", "Pilih material untuk di-farm"],
+  "Auto Farm Material": ["Farm Material", "Farm material secara otomatis"],
+  
+  "Select Enemy Health [ % ]": ["Pilih Darah Musuh [ % ]", "Tentukan persentase darah musuh untuk diserang"],
+  "Select Skills": ["Pilih Skill", "Pilih skill yang akan digunakan"],
+  "Auto Farm Mastery": ["Farm Mastery", "Tingkatkan mastery keahlian secara otomatis"],
+  
+  "Auto Farm Sea": ["Auto Farm Laut", "Farm di laut secara otomatis"],
+  "Auto Drive Boat": ["Auto Setir Kapal", "Setir kapal otomatis jika 'Farm Laut' aktif"],
+  "Use Gun": ["Gunakan Senjata", "Gunakan senjata untuk menyerang Sea Beast dan Kapal"],
+  
+  "Boat Tween Speed": ["Kecepatan Kapal", "Sesuaikan kecepatan kapal"],
+  "Teleport to NPC": ["Teleport ke NPC", "Pergi ke NPC yang dipilih"],
+  "Collect Mirage Chests": ["Kumpulkan Peti Mirage", "Kumpulkan semua peti di pulau mirage"],
+  "Look To Moon": ["Lihat ke Bulan", "Lihat ke bulan untuk membuatnya bersinar"],
+  "Auto Finish Trial": ["Selesaikan Trial Otomatis", "Selesaikan Trial ras Anda secara otomatis"],
+  
+  "Auto Dojo Trainer Quest": ["Misi Dojo Trainer", "Selesaikan misi Sabuk secara otomatis"],
+  "Auto Dragon Hunter Quest": ["Misi Dragon Hunter", "Setiap misi selesai, Anda akan mendapatkan 'Blaze Ember'"],
+  "Auto Elite Hunter": ["Elite Hunter Otomatis", "Selesaikan misi Elite Hunter setiap 10 menit"],
+  "Auto Rip Indra": ["Auto Rip Indra", "Dapatkan Chalice, Aktifkan Pelat, Spawn dan Bunuh Rip Indra"],
+  "Auto Cake Prince": ["Auto Cake Prince", "Spawn dan Bunuh Cake Prince"],
+  "Auto Dough King": ["Auto Dough King", "Dapatkan Sweet Chalice, Spawn dan Bunuh Dough King"],
+  
+  "Auto Collect Yama": ["Ambil Yama Otomatis", "Dapatkan pedang Yama setelah membunuh 30 Elite"],
+  "Auto Tushita": ["Dapatkan Tushita Otomatis", "Selesaikan puzzle Tushita dan bunuh Longma"],
+  "Auto Cursed Dual Katana": ["Auto Cursed Dual Katana", "Buka Cursed Dual Katana"],
+  
+  "Auto Citizen Quest": ["Selesaikan Misi Citizen", "Selesaikan misi Citizen untuk membuka Musketeer Hat"],
+  "Auto Rainbow Haki": ["Auto Haki Pelangi", "Buka warna Haki Pelangi"],
+  
+  "Third Sea": ["Lautan Ketiga", "Buka akses ke lautan ketiga"],
+  "Auto Third Sea": ["Auto Lautan Ketiga", "Selesaikan syarat untuk Lautan Ketiga"],
+  "Auto Kill Don Swan": ["Auto Don Swan", "Berikan buah ke Trevor dan Bunuh Don Swan"],
+  
+  "Auto Darkbeard": ["Auto Darkbeard", "Spawn dan Bunuh Darkbeard"],
+  "Auto Cursed Captain": ["Auto Cursed Captain", "Bunuh Cursed Captain saat muncul"],
+  
+  "Auto Kill Law": ["Auto Raid Law", "Mulai Raid dan Bunuh Law"],
+  "Auto Buy Microchip": ["Beli Microchip", "Beli Microchip untuk Raid Law"],
+  
+  "Legendary Sword": "Pedang Legendaris",
+  "Aura Color": "Warna Haki",
+  "Auto Buy Legendary Sword": ["Beli Pedang Legendaris", "Beli pedang otomatis saat Penjual muncul"],
+  "Auto Rengoku": ["Auto Rengoku", "Dapatkan Hidden Key dan buka Rengoku"],
+  "Auto Collect Berries": ["Auto Ambil Berry", "Kumpulkan Berry yang tersebar di peta"],
+  "Auto Berry Hop": ["Auto Berry Hop", "Pindah server setelah mengumpulkan semua Berry"],
+  "Select Aura": ["Pilih Warna", "Pilih warna Haki"],
+  "Auto Craft Aura Color": ["Auto Craft Warna", "Kumpulkan Berry sampai bisa membuat warna Haki yang dipilih"],
+  "Auto Craft Hop": ["Auto Craft Hop", "Pindah server untuk mencari berry yang kurang untuk crafting"],
+  
+  "Race": "Ras",
+  "Auto Race V2": ["Evolusi Ras ke V2", "Evolusi ras ke V2"],
+  "Auto Race V3": ["Evolusi Ras ke V3", "Evolusi ras (hanya Mink, Human, atau Shark)"],
+  
+  "Auto Bartilo Quest": ["Misi Bartilo Otomatis", "Memerlukan level 850"],
+  
+  "Second Sea": "Lautan Kedua",
+  "Auto Second Sea": ["Auto Lautan Kedua", "Selesaikan syarat untuk Lautan Kedua"],
+  
+  "Swords": "Pedang",
+  "Auto Unlock Saber": ["Buka Saber Otomatis", "Selesaikan Puzzle dan Kalahkan Shanks"],
+  "Auto Pole V1": ["Auto Pole V1", "Kalahkan Thunder God sampai mendapatkan Pole V1"],
+  "Auto Saw Sword": ["Auto Saw Sword", "Kalahkan The Saw sampai mendapatkan Shark Saw"],
+  
+  "Auto Mastery all Swords": ["Mastery penuh semua pedang", "Dapatkan mastery maksimal pada semua pedang yang sudah terbuka"],
+  
+  "Fruits": "Buah",
+  "Auto Store Fruits": ["Simpan Buah Otomatis", "Simpan buah di Inventaris Anda"],
+  "Teleport To Fruits": ["Ambil Buah Otomatis", "Kumpulkan buah yang ada di peta"],
+  "Auto Random Fruit": ["Gacha Buah Otomatis", "Gacha buah secara otomatis"],
+  
+  "Select Chip": ["Pilih Chip Raid", "Pilih chip untuk memulai raid"],
+  "Auto Farm Raid": ["Auto Farm Raid", "Farm raid, awakening, dan menyerang secara otomatis"],
+  "Auto Buy Chip": ["Beli Chip Raid Otomatis", "Beli chip untuk raid"],
+  "Unstore Common Fruits": ["Keluarkan Buah Biasa", "Keluarkan buah biasa untuk ditukar dengan Microchip"],
+  
+  "Islands": "Pulau",
+  "Islands Stats": "Status Pulau",
+  "Auto Craft Volcanic Magnet": ["Buat Volcanic Magnet", "Kumpulkan Material dan Buat Volcanic Magnet"],
+  "Fully Prehistoric Island": ["Pulau Prasejarah Lengkap", "Lakukan semua event di pulau Prasejarah"],
+  "Teleport to Prehistoric Island": ["Teleport ke Pulau Prasejarah", "Teleport ke pulau Prasejarah"],
+  "Ignore Collect Bones [ Fully ]": ["Abaikan Ambil Tulang [ Fully ]", "Jangan kumpulkan Tulang"],
+  "Ignore Collect Dragon Egg [ Fully ]": ["Abaikan Ambil Telur Naga [ Fully ]", "Jangan kumpulkan Telur Naga"],
+  "Reset character after Finishing [ Fully ]": ["Reset setelah selesai [ Fully ]", "Reset karakter setelah menyelesaikan Pulau Prasejarah"],
+  
+  "Kitsune Island": "Pulau Kitsune",
+  "Trade Azure Ember Amount": ["Jumlah Tukar", "Tentukan jumlah untuk menukar Azure Ember"],
+  "Auto Trade Azure Ember": ["Auto Tukar Azure Ember", "Tukar Azure Ember dengan hadiah acak"],
+  "Auto Kitsune Island": ["Farm Pulau Kitsune", "Cari pulau Kitsune dan Kumpulkan Azure Ember"],
+  
+  "Mirage Island": "Pulau Mirage",
+  "Teleport To Gear": ["Teleport ke Gear", "Pergi ke Gear jika tersedia"],
+  "Teleport To Mirage": ["Teleport ke Mirage", "Pergi ke pulau Mirage"],
+  "Teleport To Fruit Dealer": ["Teleport ke Penjual Buah", "Pergi ke penjual buah di mirage"],
+  
+  "Teleport to Sea 1": ["Pergi ke Laut 1", "Teleport ke Lautan Pertama"],
+  "Teleport to Sea 2": ["Pergi ke Laut 2", "Teleport ke Lautan Kedua"],
+  "Teleport to Sea 3": ["Pergi ke Laut 3", "Teleport ke Lautan Ketiga"],
+  
+  "Select Island": "Pilih Pulau",
+  "Teleport to Island": "Teleport ke Pulau",
+  "Teleport to Temple of Time": "Teleport ke Temple of Time",
+  
+  "Esp Size": "Ukuran ESP",
+  "ESP My Boat": ["ESP Kapal Saya", "Tunjukkan lokasi kapal Anda di peta"],
+  "ESP Players": ["ESP Pemain", "Tampilkan pemain di peta"],
+  "ESP Fruits": ["ESP Buah", "Tampilkan buah di peta"],
+  "ESP Islands": ["ESP Pulau", "Tampilkan pulau di peta"],
+  "ESP Chests": ["ESP Peti", "Tampilkan Peti yang tersedia untuk diambil"],
+  "ESP Berries": ["ESP Berry", "Tampilkan Berry yang tersedia untuk diambil"],
+  
+  "Meteor Rain": "Hujan Meteor",
+  "Remove Portal Dash Cooldown": "Hapus Cooldown Dash Portal",
+  "Enable Roblox Emote Menu": "Aktifkan Menu Emote Roblox",
+  
+  "Execute Clipboard": ["Eksekusi Clipboard", "Jalankan script yang disalin"],
+  "Redeem all Codes": ["Tukar Semua Kode", "Kumpulkan hadiah dari kode yang tersedia"],
+  
+  "Start Server Hopping": "Mulai Pindah Server",
+  "Options [ Priority Order > ]": "Opsi [ Urutan Prioritas > ]",
+  "Don't hop if has \"Fist of Darkness\"": "Jangan pindah jika memiliki \"Fist of Darkness\"",
+  "Don't hop if has \"God's Chalice\"": "Jangan pindah jika memiliki \"God's Chalice\"",
+  "Don't hop if has \"Hellfire Torch\"": "Jangan pindah jika memiliki \"Hellfire Torch\"",
+  "Elite Hunter Quest": ["Kalahkan Elite Boss", "Selesaikan misi Elite Hunter jika ada Elite Boss yang muncul."],
+  "Pirates Sea": ["Selesaikan Raid Bajak Laut", "Selesaikan Raid Bajak Laut yang terjadi di Sea Castle."],
+  "Complete Factory": ["Selesaikan Factory", "Hancurkan inti pabrik untuk mendapatkan buah acak."],
+  "Collect Fruits": ["Kumpulkan Buah", "Kumpulkan buah alami atau buah yang dijatuhkan pemain lain."],
+  "Collect Berries": ["Kumpulkan Berry", "Kumpulkan semua Berry yang tersebar di peta."],
+  "Collect Chests": ["Kumpulkan Peti", "Kumpulkan 25 peti sebelum pindah Server."],
+  "Defeat Cursed Captain": ["Kalahkan Cursed Captain", "Kalahkan Cursed Captain jika dia muncul."],
+  "Complete Raids": ["Selesaikan Raid", "Selesaikan raid menggunakan buah yang tidak bisa disimpan."],
+  
+  "Rejoin Server": ["Masuk Kembali ke Server", "Masuk kembali ke server saat ini"],
+  "Server Hop": ["Pindah Server", "Masuk ke server yang berbeda"],
+  "Rejoin": ["Masuk Kembali", "Masuk kembali ke server saat ini"],
+  
+  "Join Pirates Team": ["Masuk Tim Bajak Laut", "Bergabung dengan bajak laut"],
+  "Join Marines Team": ["Masuk Tim Angkatan Laut", "Bergabung dengan angkatan laut"],
+  
+  "Devil Fruit Shop": ["Toko Buah Iblis", "Buka toko buah"],
+  "Advanced Fruit Dealer": ["Penjual Buah Lanjutan", "Buka toko buah di Mirage"],
+  "Titles": ["Gelar", "Tampilkan gelar Anda"],
+  "Haki Color": ["Warna Haki", "Ubah warna Haki Anda"],
+  
+  "Auto Active Race V3": ["Auto Aktifkan Ras V3", "Aktifkan Ras V3 setiap 30 detik"],
+  "Auto Active Race V4": ["Auto Aktifkan Ras V4", "Aktifkan Ras V4 saat bar penuh"],
+  
+  "Remove Fog": ["Hapus Kabut", "Hapus kabut dari peta"],
+  
+  "Remove Damage": ["Hapus Angka Damage", "Nonaktifkan tampilan damage pada musuh"],
+  "Remove Notifications": ["Hapus Notifikasi", "Nonaktifkan notifikasi game"],
+  
+  "Walk On Water": ["Berjalan di Air", "Memungkinkan berjalan di atas air"],
+  "Anti AFK": ["Anti AFK", "Mencegah terputus karena tidak aktif"],
+  
+  "Take Quest Debounce": ["Tunggu misi berikutnya", "Tunggu 75 detik sebelum mengambil misi berikutnya"],
+  "Smooth Farm Mode": ["Mode Farm Halus", "Mengurangi perhitungan script agar game lebih ringan"],
+  
+  "Race Reroll": "Gacha Ras",
+  "Reset Stats": "Reset Statistik",
+  
+  "Auto Draco V2 & V3": ["Auto Draco V2 & V3", "Evolusi ras draco ke V2 dan V3 secara otomatis"],
+  
+  "Only on Sea 2 and 3": "Raid hanya tersedia di Laut 2 dan 3",
+  "Acessories": "Aksesori",
+  "Gun": "Senjata",
+  "Select NPC": "Pilih NPC",
+  "Farm Select": "Pilih Farm",
+  "Travel": "Perjalanan",
+  "Settings": "Pengaturan",
+  "ESP": "ESP",
+  "Codes": "Kode",
+  "Server": "Server",
+  "Team": "Tim",
+  "Menu": "Menu",
+  "Visual": "Visual",
+  "More FPS": "Lebih Banyak FPS",
+  "Christmas": "Natal",
+  "Bones": "Tulang",
+  "Ectoplasm": "Ektoplasma",
+  "Fruit/Raid": "Buah/Raid",
+  "Teleport": "Teleport",
+  "Chest": "Peti",
+  "Quests/Items": "Misi/Item",
+  "Shop": "Toko",
+  "Sword": "Pedang",
+  "Quest": "Misi",
+  "Bosses": "Boss",
+  "Fish": "Ikan",
+  "Boats": "Kapal",
+  "Configs": "Konfigurasi",
+  "Sea": "Laut",
+  "Farm": "Farmar",
+  "Misc": "Lain-lain",
+  "Others": "Lainnya",
+  "Race V4": "Ras V4",
+  "Enemies": "Musuh",
+  "Frags": "Frag",
+  "Accessories": "Aksesori",
+  "Fighting Style": "Gaya Bertarung",
+  "Mastery": "Mastery"
+}
+
