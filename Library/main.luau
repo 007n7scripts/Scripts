@@ -1,27 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:://[[
+      MAIN LIBRARY
+      BY: tlredz
+]]//::
 
 local a=cloneref or(function(...)return...end)
 
