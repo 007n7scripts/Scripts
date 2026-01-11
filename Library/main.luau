@@ -1,7 +1,13 @@
-:://[[
-      MAIN LIBRARY
-      BY: tlredz
-]]//::
+:://
+    { redz Hub Main Library }
+    { edited by: 007n7scripter }
+    { edited new name: TenshiDev }
+    { Owner: tlredz }
+    { Edits Github: https://github.com/007n7scripts/ }
+    { Owner's Github: https://github.com/tlredz/ }
+//::
+
+{ Library redzHub Code }
 
 local a=cloneref or(function(...)return...end)
 
@@ -4042,3 +4048,12 @@ return as
 end
 
 return s
+end
+
+return redzLib
+end
+
+return redzMainLib
+end
+
+return
