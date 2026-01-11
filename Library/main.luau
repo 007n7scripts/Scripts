@@ -1,26 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:://
+    { redz Hub Library Main }
+    { edited by: 007n7scripter }
+    { Owner: tlredz }
+    { Edits Github: https://github.com/007n7scripts }
+    { Owner Github: https://github.com/tlredz/ }
+//::
 
 
 local a=cloneref or(function(...)return...end)
@@ -4062,3 +4046,11 @@ return as
 end
 
 return s
+end
+
+return redzLib
+end
+
+return redzMainLib
+end
+
