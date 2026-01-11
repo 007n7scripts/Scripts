@@ -819,3 +819,4 @@ return {
 	zoomin = 10747384552,
 	zoomout = 10747384679
 }
+return Icons
